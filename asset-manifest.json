@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ningukonin/Ningaraj-portfolio.git/static/css/main.ab0baa57.css",
+    "main.js": "/ningukonin/Ningaraj-portfolio.git/static/js/main.5e0b11d4.js",
+    "static/js/453.31d27644.chunk.js": "/ningukonin/Ningaraj-portfolio.git/static/js/453.31d27644.chunk.js",
+    "static/media/portfolio.png": "/ningukonin/Ningaraj-portfolio.git/static/media/portfolio.8b79151772588df32bb9.png",
+    "index.html": "/ningukonin/Ningaraj-portfolio.git/index.html",
+    "main.ab0baa57.css.map": "/ningukonin/Ningaraj-portfolio.git/static/css/main.ab0baa57.css.map",
+    "main.5e0b11d4.js.map": "/ningukonin/Ningaraj-portfolio.git/static/js/main.5e0b11d4.js.map",
+    "453.31d27644.chunk.js.map": "/ningukonin/Ningaraj-portfolio.git/static/js/453.31d27644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab0baa57.css",
+    "static/js/main.5e0b11d4.js"
+  ]
+}
