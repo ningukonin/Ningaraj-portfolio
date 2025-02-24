@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ningaraj-portfolio.git/static/css/main.180e795b.css",
-    "main.js": "/Ningaraj-portfolio.git/static/js/main.1ee7fe5e.js",
-    "static/js/453.31d27644.chunk.js": "/Ningaraj-portfolio.git/static/js/453.31d27644.chunk.js",
-    "static/media/portfolio.png": "/Ningaraj-portfolio.git/static/media/portfolio.8b79151772588df32bb9.png",
-    "index.html": "/Ningaraj-portfolio.git/index.html",
-    "main.180e795b.css.map": "/Ningaraj-portfolio.git/static/css/main.180e795b.css.map",
-    "main.1ee7fe5e.js.map": "/Ningaraj-portfolio.git/static/js/main.1ee7fe5e.js.map",
-    "453.31d27644.chunk.js.map": "/Ningaraj-portfolio.git/static/js/453.31d27644.chunk.js.map"
+    "main.css": "/Ningaraj-portfolio/static/css/main.180e795b.css",
+    "main.js": "/Ningaraj-portfolio/static/js/main.43fef29f.js",
+    "static/js/453.31d27644.chunk.js": "/Ningaraj-portfolio/static/js/453.31d27644.chunk.js",
+    "static/media/portfolio.png": "/Ningaraj-portfolio/static/media/portfolio.8b79151772588df32bb9.png",
+    "index.html": "/Ningaraj-portfolio/index.html",
+    "main.180e795b.css.map": "/Ningaraj-portfolio/static/css/main.180e795b.css.map",
+    "main.43fef29f.js.map": "/Ningaraj-portfolio/static/js/main.43fef29f.js.map",
+    "453.31d27644.chunk.js.map": "/Ningaraj-portfolio/static/js/453.31d27644.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.180e795b.css",
-    "static/js/main.1ee7fe5e.js"
+    "static/js/main.43fef29f.js"
   ]
 }
